@@ -56,11 +56,11 @@
   <tfoot></tfoot>
 <table>
 <tr>
-      <td>04</td>
+    <td>04</td>
       <td>Cards GitHub</td>
       <td align="center">
         <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main.md">
-           <img align="center" alt="Material de Apoio" src="https://pt.stackoverflow.com/questions/345326/qual-a-diferen%C3%A7a-entre-issues-e-pull-requests">
+           <img align="center" alt="Exemplo" src="https://pt.stackoverflow.com/questions/345326/qual-a-diferen%C3%A7a-entre-issues-e-pull-requests">
         </a>
       </td>
       <td>
