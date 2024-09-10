@@ -53,7 +53,6 @@
       </td>
     </tr>
   </tbody>
-  <tfoot></tfoot>
     <tr>
       <td>04</td>
       <td>Cards GitHub</td>
