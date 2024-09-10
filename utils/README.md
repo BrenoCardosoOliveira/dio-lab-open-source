@@ -54,10 +54,10 @@
     </tr>
   </tbody>
   <tfoot></tfoot>
-</table>
+<table>
 <tr>
-      <td>03</td>
-      <td>Cards GitHub Streak Stats</td>
+      <td>04</td>
+      <td>Cards GitHub</td>
       <td align="center">
         <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main.md">
            <img align="center" alt="Material de Apoio" src="https://pt.stackoverflow.com/questions/345326/qual-a-diferen%C3%A7a-entre-issues-e-pull-requests">
