@@ -55,10 +55,26 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+<tr>
+      <td>03</td>
+      <td>Cards GitHub Streak Stats</td>
+      <td align="center">
+        <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main.md">
+           <img align="center" alt="Material de Apoio" src="https://pt.stackoverflow.com/questions/345326/qual-a-diferen%C3%A7a-entre-issues-e-pull-requests">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main">GitHub Streak Stats by @BrenoCardosoOliveira</a>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
 
 ## Links Úteis
 - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Controle de versão usando Git integrado ao Redmine](https://www.vivaolinux.com.br/artigo/Controle-de-versao-usando-Git-integrado-ao-Redmine)
 
