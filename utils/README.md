@@ -54,22 +54,21 @@
     </tr>
   </tbody>
   <tfoot></tfoot>
-<table>
-<tr>
-    <td>04</td>
+    <tr>
+      <td>04</td>
       <td>Cards GitHub</td>
       <td align="center">
-        <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main.md">
-           <img align="center" alt="Exemplo" src="https://pt.stackoverflow.com/questions/345326/qual-a-diferen%C3%A7a-entre-issues-e-pull-requests">
+        <a href="https://github.com/BrenoCardosoOliveira/Cruso_Python.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
         </a>
       </td>
       <td>
-        <a href="https://github.com/BrenoCardosoOliveira/dio-lab-open-source/tree/main">GitHub Streak Stats by @BrenoCardosoOliveira</a>
+        <a href="https://github.com/BrenoCardosoOliveira/Curso-Java/tree/main">GitHub Streak Stats by @BrenoCardosoOliveira</a>
       </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
-</table>
+
 
 
 ## Links Úteis
